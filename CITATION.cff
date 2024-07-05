@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+title: ' Strategic Federated Learning '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hassan
+    family-names: Mohamad
+    email: hassanmohamad241@gmail.com
+    affiliation: CRAN
+    orcid: 'https://orcid.org/0009-0009-8838-243X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12207165
+repository-code: 'https://github.com/HassanM0/SFL.git'
+keywords:
+  - Federated Learning
+  - Game theory
